@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Boss Track", 
+        "category": ["Tools", "Web3"],
+        "logo": "https://i.imgur.com/EUvN3cZ.png",
+        "description": "Boss Track is a DeFi portfolio tracker which gives users real time performance data for their on-chain assets on Cronos chain and others.",
+        "link": "http://bosstrack.com",
+        "twitter": "https://twitter.com/Boss__Track"
+    }
+ }
